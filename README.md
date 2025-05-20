@@ -20,4 +20,4 @@ Uso exclusivo de HTML y aplicación de etiquetas semánticas:
 Puedes abrir el archivo index.html directamente en tu navegador web. También puedes clonar este repositorio y abrirlo localmente.
 
 ## Autor
-Creado por [Stephanie Apaza] (https://github.com/StephanieApaza) - ¡Si te gusta el proyecto, no dudes en contactarme!
+Creado por [Stephanie Apaza](https://github.com/StephanieApaza) - ¡Si te gusta el proyecto, no dudes en contactarme!
