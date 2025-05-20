@@ -7,15 +7,14 @@ Está construido utilizando únicamente HTML, aplicando etiquetas semánticas.
 Presentar una estructura básica de mi portafolio personal.
 
 ## Características
-Uso exclusivo de HTML
-Aplicación de etiquetas semánticas:
-- <header>
-- <main>
-- <nav>
-- <img>
-- <section>
-- <form>
-- <footer>
+Uso exclusivo de HTML y aplicación de etiquetas semánticas:
+- header
+- main
+- nav
+- img
+- section
+- form
+- footer
 
 ## Cómo visualizar el sitio
 Puedes abrir el archivo index.html directamente en tu navegador web. También puedes clonar este repositorio y abrirlo localmente.
