@@ -17,7 +17,7 @@ Uso exclusivo de HTML y aplicación de etiquetas semánticas:
 - footer
 
 ## Cómo visualizar el sitio
-Puedes abrir el archivo index.html directamente en tu navegador web. También puedes clonar este repositorio y abrirlo localmente.
+Para ver este proyecto tienes que dar click en el siguiente [link](https://stephanieapaza.github.io/proyecto_clase_6/).
 
 ## Autor
 Creado por [Stephanie Apaza](https://github.com/StephanieApaza) - ¡Si te gusta el proyecto, no dudes en contactarme!
